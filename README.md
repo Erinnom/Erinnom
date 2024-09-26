@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on the adaptation of MD5 in C without extra libs but <stdio.h>.
+- 🌱 I’m currently learning Java language, how checksum function work, how to manage a colaborative project.
+- 💬 Ask me about any things you want to.
+- 📫 How to reach me : water-deity-twine@duck.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm an ingenieer student.
 <!--
 **Erinnom/Erinnom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
